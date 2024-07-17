@@ -1,0 +1,6 @@
+{
+  "files.autoGuessEncoding": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "cSpell.words": ["typeorm", "uuidv"]
+}
